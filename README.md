@@ -22,6 +22,7 @@ A simple and elegant modal window implementation using vanilla JavaScript, HTML,
 ## 🎯 How It Works
 
 The modal window can be opened by clicking any of the three "Show modal" buttons. Users can close the modal by:
+
 - Clicking the × (close) button
 - Clicking on the overlay background
 - Pressing the Escape key
@@ -35,20 +36,23 @@ The modal window can be opened by clicking any of the three "Show modal" buttons
 ## 🚀 Getting Started
 
 1. Clone this repository:
+
    ```bash
-   git clone https://github.com/yourusername/javascript-modal-project.git
+   git clone https://github.com/Neginadg/javascript-modal-project.git
    ```
 
 2. Navigate to the project directory:
+
    ```bash
    cd javascript-modal-project
    ```
 
 3. Open `index.html` in your web browser or use a local server:
+
    ```bash
    # Using Python 3
    python -m http.server 8000
-   
+
    # Using Node.js (if you have http-server installed)
    npx http-server
    ```
@@ -70,10 +74,10 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/javascript-modal-project/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Neginadg/javascript-modal-project/issues).
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
+Negin- abdolbaghinegin@gmail.com
 
-Project Link: [https://github.com/yourusername/javascript-modal-project](https://github.com/yourusername/javascript-modal-project)
+Live Demo : (https://Neginadg.github.io/modal-project)
