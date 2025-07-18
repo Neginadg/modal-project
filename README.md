@@ -74,6 +74,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
+Negin- abdolbaghinegin@gmail.com
 
-Project Link: [https://github.com/yourusername/javascript-modal-project](https://github.com/yourusername/javascript-modal-project)
+Project Link: [https://github.com/Neginadg/javascript-modal-project](https://github.com/yourusername/javascript-modal-project)
