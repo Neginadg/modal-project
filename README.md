@@ -70,10 +70,10 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/javascript-modal-project/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Neginadg/javascript-modal-project/issues).
 
 ## 📧 Contact
 
 Negin- abdolbaghinegin@gmail.com
 
-Project Link: [https://github.com/Neginadg/javascript-modal-project](https://github.com/yourusername/javascript-modal-project)
+Live Demo : (https://Neginadg.github.io/modal-project)
