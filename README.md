@@ -36,7 +36,7 @@ The modal window can be opened by clicking any of the three "Show modal" buttons
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/javascript-modal-project.git
+   git clone https://github.com/Neginadg/javascript-modal-project.git
    ```
 
 2. Navigate to the project directory:
